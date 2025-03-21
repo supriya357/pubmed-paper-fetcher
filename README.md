@@ -105,5 +105,8 @@ poetry run get-papers-list "COVID-19 vaccine" -f results.csv -d
 ## 📄 License
 This project is licensed under the MIT License.
 
+## 📢 Contact
+For any issues or suggestions, feel free to reach out!
+
 
 
